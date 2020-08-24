@@ -1,0 +1,2 @@
+node img.js
+pause
