@@ -8,6 +8,6 @@ since the program takes a bit of time to look through the pixels and optimize th
 
 also currently the optimization system is pretty basic, but feel free to drop a PR if you found a less braindead approach
 
-**as usual, node js is required. you can download it uhhhhhhh on the internet**
+**as usual, node js is required. you can download it (https://nodejs.org/)[uhhhhhhh on the internet]**
 
 happy painting and god bless
