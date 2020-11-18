@@ -1,5 +1,5 @@
 try { require('jimp') }
-catch(e) { return console.log("Jimp is required for this program to work! Type \"npm install jimp\" to install it.") }
+catch(e) { return console.log("Jimp is required for this program to work! Type \"npm install\" to install it.") }
 
 const Jimp = require('jimp')
 const zlib = require('zlib')
