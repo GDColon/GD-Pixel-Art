@@ -1,0 +1,11 @@
+{
+  "name": "gd-pixel-art",
+  "version": "1.0.0",
+  "main": "img.js",
+  
+  "author": "GDColon",
+  
+  "dependencies" : {
+    "jimp": "*"
+  }
+}
