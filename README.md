@@ -11,3 +11,9 @@ also currently the optimization system is pretty basic, but feel free to drop a 
 **as usual, node js is required. you can download it uhhhhhhh on the internet**
 
 happy painting and god bless
+
+Oh yeah, if you're on Linux or something, tweak line 16 to look something like this:
+
+```
+let gdLevels = "/home/$USER/.steam/steam/steamapps/compatdata/322170/pfx/drive_c/users/steamuser/AppData/Local/GeometryDash/CCLocalLevels.dat"
+```
